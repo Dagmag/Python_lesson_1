@@ -97,3 +97,4 @@ while first_day < b:
     day += 1
     first_day = a
 print('Вы достигнете требуемых показателей на', day, 'день')
+
